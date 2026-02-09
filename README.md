@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitkumar778" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumar778?logo=twitter&style=for-the-badge" alt="ankitkumar778" /></a> </p>
 
-- 🔭 I’m currently working on **AOSP**
+- 🔭 I’m currently working on **Embedded Systems**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently exploring **System and Network Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitkumarsingh778/](https://github.com/ankitkumarsingh778/)
 
